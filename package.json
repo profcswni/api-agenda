@@ -1,0 +1,30 @@
+{
+  "name": "api-agenda",
+  "version": "1.0.0",
+  "description": "Sistema de gestion de datos personales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "agenda",
+    "numeros",
+    "node",
+    "prisma",
+    "mysql",
+    "nodemon",
+    "postman"
+  ],
+  "author": "Carlos Andres perez Ubeda",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10",
+    "prisma": "^6.9.0"
+  }
+}
